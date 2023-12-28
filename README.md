@@ -2,4 +2,4 @@
 
 💞️ I'm actively engaged in several side-projects leveraging xterm and the console as a block graphics display. I have achieved the capability to display 137 mixed colors using 16 terminal colors for rendering pictures in a multiuser-target environment on Linux.
 
-📫 Feel free to reach out to me on LinkedIn: Andrzej Gajowniczek
+📫 Feel free to reach out to me on LinkedIn: [Andrzej Gajowniczek](https://www.linkedin.com/pulse/building-text-based-lan-communicator-rabbitmq-go-andrzej-gajowniczek-h3ljc%3FtrackingId=%252F%252BaPhs6CT0mP5MSnIelddw%253D%253D/?trackingId=%2F%2BaPhs6CT0mP5MSnIelddw%3D%3D)https://www.linkedin.com/pulse/building-text-based-lan-communicator-rabbitmq-go-andrzej-gajowniczek-h3ljc%3FtrackingId=%252F%252BaPhs6CT0mP5MSnIelddw%253D%253D/?trackingId=%2F%2BaPhs6CT0mP5MSnIelddw%3D%3D
